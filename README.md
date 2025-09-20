@@ -1,4 +1,4 @@
-# jpg-to-pdf-converter
+# jpg-to-pdf-converter { Optimized For Mobile view }
 JPG to PDF Converter is a lightweight, fully client-side web application that transforms multiple JPG images into a single, professionally formatted PDF document.
 
 
